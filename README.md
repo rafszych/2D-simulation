@@ -10,4 +10,4 @@ Created in order to learn dynamic memory allocation, lists and visualization in 
 
 
 
-Collisions are not yet perfect - sometimes particles fly through eachother and there are some issues with incorrect direction change after collision.
+This is a work in progress. Collisions are not yet perfect - sometimes particles fly through each other and there are some issues with incorrect direction change after collision.
